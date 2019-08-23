@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # fetch_data
 
 A new Flutter project.
@@ -16,5 +16,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 =======
-# flutter
->>>>>>> 914acc4d2f04ceb6338be613afd3b7c360517b41
+
